@@ -1,0 +1,17 @@
+Queue_Name,Status,Strategy,MOH,lang,did
+AR_KL_Exchange,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_Followup,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_OrderTracking,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_OtherInquiries,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_Payment,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_PersonalShopp,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_ProductSales-I,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+AR_KL_VIP,active,longest-idle-agent,0ecb170023b5ad36d951659390482862,ar,3000
+EN_KL_Exchange,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_Followup,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_OrderTracking,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_OtherInquiries,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_Payment,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_PersonalShopp,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_ProductSales-I,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
+EN_KL_VIP,active,longest-idle-agent,c1c6ebe3e0a4efb66711659389870823,en,3001
